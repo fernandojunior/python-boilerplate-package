@@ -18,8 +18,8 @@ The awesome project_name project.
 ## Usage
 
   ```python
-  >>> from package_name import hello_world
-  >>> hello_world.show()
+  >>> from package_name import foo
+  >>> print(foo.bar())
   Hello World
   ```
 
