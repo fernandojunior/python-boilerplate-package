@@ -1,6 +1,6 @@
 # python-boilerplate-package
 
-A boilerplate to create a Python package based project. [Clone](https://help.github.com/articles/cloning-a-repository/) or [download](https://github.com/fernandojunior/python-boilerplate-module/archive/master.zip).
+A boilerplate to create a Python package based project. [Clone](https://help.github.com/articles/cloning-a-repository/) or [download](https://github.com/fernandojunior/python-boilerplate-module/archive/master.zip). See others [here](https://github.com/fernandojunior/python-boilerplate).
 
 ## Table of Contents
 
