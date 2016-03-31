@@ -1,0 +1,9 @@
+{
+  "project_name/env/lib/python3.4/site-packages/flake8/tests/test_main.py::TestMain::test_issue_39_regression": true,
+  "project_name/env/lib/python3.4/site-packages/pyflakes/test/test_api.py::IntegrationTests::test_errors": true,
+  "project_name/env/lib/python3.4/site-packages/pyflakes/test/test_api.py::IntegrationTests::test_fileWithFlakes": true,
+  "project_name/env/lib/python3.4/site-packages/pyflakes/test/test_api.py::IntegrationTests::test_goodFile": true,
+  "project_name/env/lib/python3.4/site-packages/pyflakes/test/test_api.py::IntegrationTests::test_readFromStdin": true,
+  "project_name/env/lib/python3.4/site-packages/wheel/test/test_basic.py::test_pydist": true,
+  "project_name/env/lib/python3.4/site-packages/wheel/test/test_tool.py::test_keygen": true
+}
