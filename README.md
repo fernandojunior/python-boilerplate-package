@@ -26,15 +26,20 @@ A boilerplate to create a Python package based project. [Clone](https://help.git
 ├── LICENSE
 ├── Makefile
 ├── MANIFEST.in
+├── package_name
+│   ├── foo.py
+│   ├── __init__.py
+│   └── __main__.py
 ├── README.md
 ├── requirements
 │   ├── dev.txt
 │   └── prod.txt
-├── package_name
-│   └── __init__.py
 ├── requirements.txt
 ├── setup.cfg
 ├── setup.py
+├── tests
+│   ├── __init__.py
+│   └── test_hello_world.py
 ├── tests.py
 └── tox.ini
 ```
@@ -45,12 +50,12 @@ Below the purpose of each file:
 * LICENSE - Informs users and contributors what they can and can't do with the project [reference](https://guides.github.com/activities/contributing-to-open-source/).
 * Makefile - Automates useful commands to use with make, a build automation tool [reference](https://en.wikipedia.org/wiki/Makefile).
 * MANIFEST.in - Adds extra resources in distributions as only modules and packages are included by default [reference](https://pythonhosted.org/setuptools/setuptools.html).
-* package_name.py - The core code of the project.
+* package_name/* - The core code of the project.
 * README.md - Details for the project on how to build, install, use and contribute to it [reference](https://guides.github.com/activities/contributing-to-open-source/).
 * requirements* - Contains the dependencies of the project to be installed using pip [reference](https://pip.readthedocs.org/en/stable/user_guide/#requirements-files).
 * setup.cfg - Configures some settings of the tools used in the project [reference](https://docs.python.org/3/distutils/configfile.html).
 * setup.py - Contains information needed to build, release and install distributions [reference](https://pythonhosted.org/setuptools/setuptools.html).
-* tests.py - Provides some automated tests to run with pytest [reference](http://pytest.org/).
+* tests/* - Provides some automated tests to run with pytest [reference](http://pytest.org/).
 * tox.ini - Defines test environments to run with tox [reference](https://tox.readthedocs.org/en/latest/).
 
 ## Keywords
