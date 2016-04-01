@@ -1,7 +1,7 @@
 # python-boilerplate-package
 [![building](https://img.shields.io/travis/fernandojunior/python-boilerplate-package.svg)](https://travis-ci.org/fernandojunior/python-boilerplate-package)
 
-Boilerplate to create a Python [package](https://docs.python.org/3/tutorial/modules.html#packages) based project. More information at [@fernandojunior/python-boilerplate](https://github.com/fernandojunior/python-boilerplate).
+Boilerplate to create a project with a Python [package](https://docs.python.org/3/tutorial/modules.html#packages). More information at [@fernandojunior/python-boilerplate](https://github.com/fernandojunior/python-boilerplate).
 
 ```python
 >>> from package_name import foo
