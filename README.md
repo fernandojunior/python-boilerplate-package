@@ -31,7 +31,6 @@ Boilerplate to create a Python package based project. More information at [@fern
 ├── tests
 │   ├── __init__.py
 │   └── test_hello_world.py
-├── tests.py
 └── tox.ini
 ```
 
