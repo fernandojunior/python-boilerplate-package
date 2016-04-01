@@ -34,6 +34,8 @@ Boilerplate to create a Python package based project. More information at [@fern
 └── tox.ini
 ```
 
+More datails [here](https://github.com/fernandojunior/python-boilerplate#structure).
+
 ## Keywords
 
 * author_name - Full name of the author.
