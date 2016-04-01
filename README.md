@@ -3,11 +3,17 @@
 
 Boilerplate to create a Python package based project. More information at [@fernandojunior/python-boilerplate](https://github.com/fernandojunior/python-boilerplate).
 
-  ```python
-  >>> from package_name import foo
-  >>> print(foo.bar())
-  Hello World
-  ```
+```python
+>>> from package_name import foo
+>>> print(foo.bar())
+Hello World
+```
+
+Also as a command-line script:
+```sh
+$ package_name Hello World
+Hello World
+```
 
 ## Features
 
