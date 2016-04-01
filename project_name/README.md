@@ -23,7 +23,7 @@ The awesome project_name project.
 Hello World
 ```
 
-Also as a command-line:
+Also as a command-line script:
 ```sh
 $ package_name Hello World
 Hello World
