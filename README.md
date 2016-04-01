@@ -3,6 +3,12 @@
 
 Boilerplate to create a Python package based project. More information at [@fernandojunior/python-boilerplate](https://github.com/fernandojunior/python-boilerplate).
 
+  ```python
+  >>> from package_name import foo
+  >>> print(foo.bar())
+  Hello World
+  ```
+
 ## Features
 
 * [coverage.py](https://coverage.readthedocs.org/) - Code coverage measurement.
