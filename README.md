@@ -1,4 +1,5 @@
 # python-boilerplate-package
+[![building](https://img.shields.io/travis/fernandojunior/python-boilerplate-package.svg)](https://travis-ci.org/fernandojunior/python-boilerplate-package)
 
 Boilerplate to create a Python package based project. More information at [@fernandojunior/python-boilerplate](https://github.com/fernandojunior/python-boilerplate).
 
@@ -30,7 +31,7 @@ Boilerplate to create a Python package based project. More information at [@fern
 ├── setup.py
 ├── tests
 │   ├── __init__.py
-│   └── test_hello_world.py
+│   └── test_foo.py
 └── tox.ini
 ```
 
