@@ -17,11 +17,17 @@ The awesome project_name project.
 
 ## Usage
 
-  ```python
-  >>> from package_name import foo
-  >>> print(foo.bar())
-  Hello World
-  ```
+```python
+>>> from package_name import foo
+>>> print(foo.bar())
+Hello World
+```
+
+Also as a command-line:
+```sh
+$ package_name Hello World
+Hello World
+```
 
 ## Contributing
 
